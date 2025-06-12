@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Launcher",
+            "request": "launch",
+            "mainClass": "RemoteDesktopLauncher",
+            "projectName": "remote-desktop-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Server",
+            "request": "launch",
+            "mainClass": "RemoteDesktopServer",
+            "projectName": "remote-desktop-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Client",
+            "request": "launch",
+            "mainClass": "RemoteDesktopClient",
+            "projectName": "remote-desktop-app"
+        }
+    ]
+}
