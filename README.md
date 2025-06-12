@@ -1,5 +1,4 @@
-# 📡 Remote Desktop Sharing Application (Java)
-
+# 📡 Remote Desktop Sharing Application 
 A complete **Remote Desktop Sharing** application built in **Java** using **VS Code**. This project enables users to **share their desktop screen in real-time over localhost**, along with **remote mouse and keyboard control**.
 
 ## 🚀 Features
