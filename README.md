@@ -26,6 +26,8 @@ remote-desktop-app/
 └── README.md
 ```
 
+Please create the (.vscode) and (src) file within remote-deskptop-app and paste the json and java files respectively.
+
 ## 🛠️ Setup & Installation
 
 ### 1️⃣ Install JDK
